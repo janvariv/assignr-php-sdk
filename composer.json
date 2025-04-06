@@ -1,5 +1,5 @@
 {
-  "name": "yourname/assignr-php-sdk",
+  "name": "janvariv/assignr-php-sdk",
   "description": "PHP SDK for Assignr API",
   "type": "library",
   "autoload": {
